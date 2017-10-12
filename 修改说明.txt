@@ -1,0 +1,6 @@
+修改 28.png 38.png和weixin.png 为自己的微信收款二维码，然后把源码放到网站根目录下即可。
+
+
+如何生成自己的微信收款二维码：
+http://jingyan.baidu.com/article/b907e627b641b646e6891c6b.html
+
